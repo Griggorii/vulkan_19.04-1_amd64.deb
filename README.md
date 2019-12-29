@@ -5,6 +5,8 @@ sudo dpkg -i vulkan_19.04-1_amd64.deb
 
 replace glslang-dev 
 
+Так же новости firefox 71 теперь с тирингом проверить можно найдя на ютубе tearing test
+
 /usr/lib/libOSDependent.a
 
 /usr/lib/libOGLCompiler.a
